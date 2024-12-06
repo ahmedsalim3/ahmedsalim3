@@ -12,4 +12,5 @@ Here are some of my projects
 | **Multi-Model Human Action Recognition** | A deep learning multi-model to recognize human actions across two tasks. | [GitHub](https://github.com/ahmedsalim3/MultiModel-HAR) | N/A | N/A |
 | **Pebelonix Social Networking** | A simple Django social networking app, with promising plans for future integration of AI. | [GitHub](https://github.com/ahmedsalim3/Pebelonix/tree/dev) | N/A | [Web App](https://pebelone.pythonanywhere.com/) |
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsalim3\&rank_icon=percentile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalim3&theme=transparent&layout=donut-vertical&hide=Jupyter%20Notebook,html)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsalim3\&theme=transparent&layout=donut-vertical&rank_icon=percentile)
